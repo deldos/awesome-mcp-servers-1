@@ -153,6 +153,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
 
+- <img src="https://avatars.githubusercontent.com/u/268836551?s=200&v=4" height="14"/> [msoffice-mcps](https://github.com/dosev-ai/msoffice-mcps) - Five Python stdio MCP servers for Microsoft Office desktop automation: Excel workbook editing, Word document manipulation, PowerPoint slide creation and editing, Outlook email/calendar/contacts, and a workflow runtime engine. Works via COM with locally installed Office (Windows) or via openpyxl/python-pptx/python-docx (cross-platform, no Office install required). 200+ tools with mutation gates and allowlist security.
 
 <br />
 
